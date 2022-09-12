@@ -15,7 +15,7 @@ export default function Login() {
         width={400}
       />
       <h1
-        className="p5 bg-blue-500 rounded-full text-white text-center cursor-pointer mt-10"
+        className="p-5 bg-blue-500 rounded-full text-white text-center cursor-pointer mt-10"
         onClick={signIn}
       >
         Login with Facebook
